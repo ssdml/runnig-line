@@ -30,7 +30,7 @@ class App extends Component {
       colors.shift();
       colors.push(nextColomn ? nextColomn : this.defaultColomn);
       this.setState({colors: colors});
-    }, 500);
+    }, 100);
   }
 
   initNextColomns() {

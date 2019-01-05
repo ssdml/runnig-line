@@ -2,7 +2,7 @@
   "name": "running-line",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://myname.github.io/myapp",
+  "homepage": "http://ssdml.github.io/running-line",
   "dependencies": {
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
